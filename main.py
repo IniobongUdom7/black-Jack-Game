@@ -1,6 +1,4 @@
-############### Blackjack Project #####################
-
-
+#### BLACKJACK PROJECT####
 import random
 from replit import clear
 from art import logo
